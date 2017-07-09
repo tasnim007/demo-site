@@ -11,63 +11,138 @@
     <atom:link href="/demo-site/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Novel Discriminative Framework for Sentence-Level Discourse Analysis.</title>
-      <link>https://tasnim007.github.io/demo-site/publication/person-re-identification%20-%20Copy%20%282%29/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>CON-S2V: A Generic Framework for Incorporating Extra-Sentential Context into Sen2Vec.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2017_2/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tasnim007.github.io/demo-site/publication/person-re-identification%20-%20Copy%20%282%29/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://tasnim007.github.io/demo-site/publication/2017_2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Automatic Topic Labeling in Asynchronous Conversations</title>
-      <link>https://tasnim007.github.io/demo-site/publication/person-re-identification%20-%20Copy/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Domain Adaptation Using Neural Network Joint Model.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_2/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tasnim007.github.io/demo-site/publication/person-re-identification%20-%20Copy/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://tasnim007.github.io/demo-site/publication/J_2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Dialogue Act Recognition in Synchronous and Asynchronous Conversations</title>
-      <link>https://tasnim007.github.io/demo-site/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Machine Translation Evaluation with Neural Networks.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_3/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tasnim007.github.io/demo-site/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://tasnim007.github.io/demo-site/publication/J_3/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title> Towards Topic Labeling with Phrase Entailment and Aggregation.</title>
-      <link>https://tasnim007.github.io/demo-site/publication/clothing-search%20-%20Copy/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Cross-Language Question Re-ranking.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2017_5/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tasnim007.github.io/demo-site/publication/clothing-search%20-%20Copy/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://tasnim007.github.io/demo-site/publication/2017_5/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Combining Intra- and Multi-sentential Rhetorical Parsing for Document-level Discourse Analysis</title>
-      <link>https://tasnim007.github.io/demo-site/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Discourse Structure in Machine Translation Evaluation.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_1/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tasnim007.github.io/demo-site/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://tasnim007.github.io/demo-site/publication/J_1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Supervised Topic Segmentation of Email Conversations</title>
-      <link>https://tasnim007.github.io/demo-site/publication/clothing-search%20-%20Copy%20%282%29/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>A Neural Local Coherence Model.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2017_1/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tasnim007.github.io/demo-site/publication/clothing-search%20-%20Copy%20%282%29/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://tasnim007.github.io/demo-site/publication/2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-language Learning with Adversarial Neural Networks: Application to Community Question Answering</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2017_3/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2017_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Classification of Crisis-Related Data on Social Networks using Convolutional Neural Networks.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2017_6/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2017_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Fusion Model for Domain Adaptation in Phrase-based MT.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2016_3/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2016_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interactive System for Exploring Community Question Answering Forums.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2016_4/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2016_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep Quality Prediction From Wearable Data Using Deep Learning.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_4/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of Online Deep Learning for Crisis Response Using Social Media Information.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2016_6/</link>
+      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2016_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech Act Modeling of Written Asynchronous Conversations with Task-Specific Embeddings and Conditional Structured Models.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2016_1/</link>
+      <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2016_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Learning with Global Inference for Comment Classification in Community Question Answering.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2016_2/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2016_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Question Answering on Arabic and English Fora.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/2016_5/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/2016_5/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -10,13 +10,85 @@
     <atom:link href="/demo-site/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Domain Adaptation Using Neural Network Joint Model.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_2/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Translation Evaluation with Neural Networks.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_3/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discourse Structure in Machine Translation Evaluation.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_1/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep Quality Prediction From Wearable Data Using Deep Learning.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_4/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODRA: A Novel Discriminative Framework for Rhetorical Analysis.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_5/</link>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic Segmentation and Labeling in Asynchronous Conversations.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_6/</link>
+      <pubDate>Thu, 25 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Supervised Topic Segmentation of Email Conversations</title>
-      <link>https://tasnim007.github.io/demo-site/publication/clothing-search%20-%20Copy%20%282%29/</link>
+      <link>https://tasnim007.github.io/demo-site/publication---old-template/clothing-search%20-%20Copy%20%282%29/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://tasnim007.github.io/demo-site/publication/clothing-search%20-%20Copy%20%282%29/</guid>
+      <guid>https://tasnim007.github.io/demo-site/publication---old-template/clothing-search%20-%20Copy%20%282%29/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Improving graph-based random walks for complex question answering using syntactic, shallow semantic and extended string subsequence kernels.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_8/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex Question Answering: Unsupervised Learning Approaches and Experiments.</title>
+      <link>https://tasnim007.github.io/demo-site/publication/J_7/</link>
+      <pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://tasnim007.github.io/demo-site/publication/J_7/</guid>
+      <description></description>
     </item>
     
   </channel>
