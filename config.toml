@@ -1,5 +1,5 @@
-#baseurl = "https://tasnim007.github.io/demo-site/"  # End your URL with a `/` trailing slash.
-baseurl = "https://example.com/"
+baseurl = "https://tasnim007.github.io/demo-site/"  # End your URL with a `/` trailing slash.
+#baseurl = "https://example.com/"
 publishDir = "docs"
 title = "NTU NLP Group"
 copyright = "&copy; 2017 ntu nlp"
